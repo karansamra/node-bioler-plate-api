@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "coenraads.bracket-pair-colorizer",
+    "streetsidesoftware.code-spell-checker",
+    "irongeek.vscode-env",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "ms-vsliveshare.vsliveshare",
+    "xyz.local-history",
+    "leizongmin.node-module-intellisense",
+    "esbenp.prettier-vscode",
+    "smulyono.reveal",
+    "visualstudioexptteam.vscodeintellicode",
+    "vscode-icons-team.vscode-icons"
+  ]
+}

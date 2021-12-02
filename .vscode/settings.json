@@ -1,0 +1,18 @@
+{
+  "cSpell.words": [
+    "fileupload",
+    "Kulcha",
+    "originalname",
+    "TINYINT",
+    "Tranx",
+    "uuidv"
+  ],
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

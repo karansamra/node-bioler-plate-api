@@ -1,0 +1,104 @@
+{
+  "INVALID_TOKEN": {
+    "en": "Token is not valid!"
+  },
+  "NO_TOKEN_SUPPLIED": {
+    "en": "Auth token is not supplied."
+  },
+  "INVALID_CREDENTIALS": {
+    "en": "Invalid Credentials!"
+  },
+  "ACCOUNT_DISABLED": {
+    "en": "This user account has been disabled."
+  },
+  "LOGGED_IN": {
+    "en": "User has logged in successfully."
+  },
+  "INVALID_PASSWORD": {
+    "en": "The password is invalid!"
+  },
+  "INVALID_EMAIL_PASSWORD": {
+    "en": "You have entered an invalid email or password."
+  },
+  "VALIDATION_ERROR": {
+    "en": "Validation has failed!"
+  },
+  "USER_EXISTS": {
+    "en": "A user exists with same Username or Email Address."
+  },
+  "USER_ADDED": {
+    "en": "The User has been Registered."
+  },
+  "USERS_FETCHED": {
+    "en": "The Users have been Fetched."
+  },
+  "USERS_NOT_AVAILABLE": {
+    "en": "The Users are not Available."
+  },
+  "USER_FETCHED": {
+    "en": "The user has been fetched."
+  },
+  "USER_NOT_AVAILABLE": {
+    "en": "This user does not exist!"
+  },
+  "UNKNOWN_ERROR": {
+    "en": "An unknown error has occurred! Please try again."
+  },
+  "PASSWORD_NOT_MATCHED": {
+    "en": "New Password and Confirm Password donn't match!"
+  },
+  "PASSWORD_CHANGED": {
+    "en": "Password has been changed."
+  },
+  "PASSWORD_CHANGE_ERROR": {
+    "en": "An error occurred on password change!"
+  },
+  "INVALID_OLD_PASSWORD": {
+    "en": "The Old password you have entered is wrong!"
+  },
+  "STATUS_UPDATED": {
+    "en": "Status has updated successfully."
+  },
+  "STATUS_UPDATE_ERROR": {
+    "en": "An error has occurred while updating status!"
+  },
+  "INVALID_STATUS": {
+    "en": "Invalid Status!"
+  },
+  "PROFILE_UPDATED": {
+    "en": "Profile has updated successfully."
+  },
+  "PROFILE_UPDATE_ERROR": {
+    "en": "An error occurred on profile update."
+  },
+  "OTP_SENT": {
+    "en": "OTP has been sent to your email ID."
+  },
+  "INVALID_OTP": {
+    "en": "Invalid OTP, Please try again!"
+  },
+  "OTP_EXPIRED": {
+    "en": "OTP has been expired!"
+  },
+  "OTP_VERIFIED": {
+    "en": "OTP has been verified."
+  },
+  "EMAIL_UPDATED": {
+    "en": "Email has been updated successfully."
+  },
+  "EMAIL_UPDATE_ERROR": {
+    "en": "An error has occurred on email update!"
+  },
+  "LOGOUT_SUCCESS": {
+    "en": "Logged out successfully."
+  },
+  "INVALID_MEASUREMENT": {
+    "en": "Please enter a valid measurement unit."
+  },
+  "DATA_NOT_FOUND": {
+    "en": "No data found!"
+  },
+  "DATA_FOUND": {
+    "en": "Data found!"
+  }
+}
